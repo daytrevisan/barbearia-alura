@@ -2,6 +2,9 @@
 
 Este é um projeto de um site institucional para uma barbearia fictícia, desenvolvido como parte da minha trilha de aprendizado em desenvolvimento Front-end. O foco principal foi dominar as bases de estruturação com HTML5 e estilização avançada com CSS3.
 
+<img width="1894" height="900" alt="image" src="https://github.com/user-attachments/assets/2ff9d6b5-d4f1-41d6-a98b-f27dbf043ffb" />
+
+
 ## 🔗 Demonstração
 Você pode visualizar o projeto online aqui: [https://daytrevisan.github.io/barbearia/](https://daytrevisan.github.io/barbearia/)
 
